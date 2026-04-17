@@ -10,14 +10,10 @@ groq>=0.9.0
 google-genai>=0.3.0
 chromadb>=0.4.14
 
-# Document Parsing (Phase 1)
-docling>=1.0.0 
 
 # Environment Variables
 python-dotenv>=1.0.0
 
-streamlit
-chromadb
 groq
 fastembed
 protobuf==3.20.3
